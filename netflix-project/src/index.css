@@ -18,5 +18,10 @@
 
 body{
   background: #111;
+  /* padding-top: 70px; */
+   /* same as header height */
+     /* Prevent header from overlapping content */
 }
+
+
 

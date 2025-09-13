@@ -1,7 +1,7 @@
 .banner {
   position: relative;
-  height: 448px;                /* full screen */
-  margin-top: 70px;             /* push below header */
+  height: 1000px;
+  margin-top: 70px;
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
@@ -54,7 +54,6 @@
 .banner_button:hover {
   color: #000;
   background-color: #e6e6e6;
-  transition: all 0.2s;
 }
 
 .banner--fadeBottom {
